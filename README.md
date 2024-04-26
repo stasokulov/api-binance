@@ -2,7 +2,7 @@
 
 Подключение по WebSocket и отображение ордеров в реальном времени.
 
-Сайт:
+Сайт: https://stasokulov.github.io/api-binance/
 
 Текст ТЗ: https://docs.google.com/document/d/14Xk2EKSztLnhz0zOChK8aVHzyE85ueK31_ln3RCZlGY/edit
 
