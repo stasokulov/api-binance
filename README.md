@@ -6,6 +6,10 @@
 
 Текст ТЗ: https://docs.google.com/document/d/14Xk2EKSztLnhz0zOChK8aVHzyE85ueK31_ln3RCZlGY/edit
 
+## Деплой на Github Pages
+
+Переименовать папку dist в docs. В папке docs cкопировать файл index.html и переменовать его в 404.html.
+
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
